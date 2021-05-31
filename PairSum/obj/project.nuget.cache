@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EvBRntDjd1cVVw5ga5FLNiyVwdc57qn8oQ1DJ0SmqEJptTA0va2o9LAEIfZ+5GVXkWS2uYDUthcnmjacq7h2WA==",
+  "success": true,
+  "projectFilePath": "D:\\innRoad\\Datastructures\\GitHub\\PairSum\\PairSum\\PairSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vigneshwara Projects\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
